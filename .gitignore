@@ -1,0 +1,7 @@
+node_modules/
+bower_components/
+coverage/
+.sass-cache/
+angular.5-project.zip
+angular.5-project.war
+*.DS_Store
